@@ -1,5 +1,5 @@
 hello world!
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<title>Katie Forester, Student</title>
@@ -16,7 +16,7 @@ hello world!
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Katie Forester!</h1>
-				<p>I'm best known as the insert from <em>put link to unc</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+				<p>I'm best known as the insert from <em>put link to unc</em> <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
