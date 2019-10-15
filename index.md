@@ -2,7 +2,7 @@ hello world!
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>Katie Forester, Student</title>
 	</head>
 	<body>
 		<nav>
@@ -15,8 +15,8 @@ hello world!
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+        		<h1>Hi there, I'm Katie Forester!</h1>
+				<p>I'm best known as the insert from <em>put link to unc</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
