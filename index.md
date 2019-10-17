@@ -3,7 +3,7 @@
 This is a list of resources and related projects to look over for the biohackathon. Some are meant to serve more as a source of inspiration, and some will give you more directly related information, such as code. Take a look below.
 
 
-# Open Source Plate Reader
+### Open Source Plate Reader
 
 **Code**
 
@@ -20,7 +20,7 @@ This is a list of resources and related projects to look over for the biohackath
 * [An open-hardware platform for optogenetics and photobiology](DOI 10.1038/srep35363)
 
 
-# Augmented Biologist and Lab Vision
+### Augmented Biologist and Lab Vision
 
 **Code**
 
