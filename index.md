@@ -25,7 +25,7 @@ This is a list of resources and related projects to look over for the biohackath
 **Code**
 
 * [This code takes a picture using webcam(s) and segments it into RGB using a python script. The images are then placed on a webstream](https://github.com/tmopencell/labvision)
-8 [Hand tracking](https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md)
+* [Hand tracking](https://github.com/google/mediapipe/blob/master/mediapipe/docs/hand_tracking_mobile_gpu.md)
 * [Finger detection and tracking using Open CV and Python](https://dev.to/amarlearning/finger-detection-and-tracking-using-opencv-and-python-586m) 
 * [Detect and recognize hand gestures](https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/)
 * [Human pose estimation](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
